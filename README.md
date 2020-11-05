@@ -1,3 +1,3 @@
 # js-programming-constructs
 
-## UC2_IfElse
+## UC3_SwitchCases
