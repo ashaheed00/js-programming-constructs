@@ -1,3 +1,3 @@
 # js-programming-constructs
 
-## UC6_Arrays
+## UC7_Map
