@@ -1,3 +1,3 @@
 # js-programming-constructs
 
-## UC5_Functions
+## UC6_Arrays
